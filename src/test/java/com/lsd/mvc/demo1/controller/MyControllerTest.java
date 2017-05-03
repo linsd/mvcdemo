@@ -9,6 +9,6 @@ public class MyControllerTest {
 
     @Test
     public void test() {
-        new MyController();
+        new MyController();//
     }
 }
